@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-techguy&show_icons=true&theme=radical)
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-techguy&show_icons=true&theme=radical" />
 
 
 - 🔭 I’m currently working on ...
