@@ -3,6 +3,7 @@
 Here are some ideas to get you started:
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-techguy&show_icons=true&theme=radical" />
+<br/>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-techguy&layout=combact" />
 
 - 🔭 I’m currently working on ...
