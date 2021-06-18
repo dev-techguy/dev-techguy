@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-<img align="right" width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-techguy&layout=combact" />
+<img align="right" width="1000em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-techguy&layout=combact" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
