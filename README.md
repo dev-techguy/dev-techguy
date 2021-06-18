@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-techguy&layout=compact" />
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=compact" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
 
 
 - 🔭 I’m currently working on ...
