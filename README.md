@@ -3,6 +3,8 @@
 Here are some ideas to get you started:
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-techguy&layout=combact" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img width="2000em" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-techguy&show_icons=true&theme=radical" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-techguy&show_icons=true&theme=radical" />
 
