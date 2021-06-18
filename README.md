@@ -2,9 +2,12 @@
 
 Here are some ideas to get you started:
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-techguy&show_icons=true&theme=radical" />
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-techguy&layout=radical" />
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
